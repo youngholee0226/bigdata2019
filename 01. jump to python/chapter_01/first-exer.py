@@ -11,5 +11,4 @@ else:
 
 :w
 
-:set nu
-
+:
